@@ -1,4 +1,4 @@
-package hello;
+package spring.boot.redis.messaging;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
